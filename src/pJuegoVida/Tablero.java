@@ -19,7 +19,7 @@ public class Tablero {
 	private EstadoJuego estadoJuego;
 
 	/*
-	* Método Constructor
+	* Método Constructor de Tablero
 	*@param
 	* f - número de filas
 	* c - número de columnas

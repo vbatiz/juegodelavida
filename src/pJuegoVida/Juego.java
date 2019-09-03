@@ -40,7 +40,7 @@ public class Juego {
 		return number;
 	}
 
-
+	//Método principal
 	public static void main(String[] args) {
 		int numFilas;
 		int numColumnas;
