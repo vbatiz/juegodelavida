@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98f3727b-a5fa-4cf0-97ed-61122c1b2097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MCC_TP_T1/pJuegoVida/Tablero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCC_TP_T1/pJuegoVida/Tablero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pJuegoVida/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pJuegoVida/Juego.java" afterDir="false" />
-    </list>
+    <list default="true" id="98f3727b-a5fa-4cf0-97ed-61122c1b2097" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +64,16 @@
       <workItem from="1567433869374" duration="17949000" />
       <workItem from="1567485828214" duration="6665000" />
       <workItem from="1567517210713" duration="6219000" />
-      <workItem from="1567526162984" duration="902000" />
+      <workItem from="1567526162984" duration="1142000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregué comentarios para documentación">
+      <created>1567527239192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567527239192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregué comentarios para documentación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregué comentarios para documentación" />
   </component>
 </project>
