@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * @author Víctor Bátiz y Rafael Zavala
+ * Materia: Técnicas de Programación
+ * Tutor: Dra. María Lucía Barrón Estrada
  *
  */
 

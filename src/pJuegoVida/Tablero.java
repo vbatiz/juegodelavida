@@ -34,7 +34,7 @@ public class Tablero {
             estadoJuego = EstadoJuego.CONTINUARJUEGO; //A jugar
         }
 	    else {
-            estadoJuego = EstadoJuego.NOQUEDANVIVOS; //Si no se activaron organismos de inicio
+            estadoJuego = EstadoJuego.NOQUEDANVIVOS; //Caso en que no se activaron organismos de inicio
         }
 
 	    generacionActual = 0; //Generación base
