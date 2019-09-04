@@ -1,9 +1,10 @@
 # juegodelavida
-Tarea 1 de la materia Tecnologías de Programación de la MCC
+Tarea 1<br>
+Materia: Tecnologías de Programación de la MCC del ITC
 <br>
 ## Tutor: Dra. María Lucía Barrón Estrada
 <br>
-## Autores: Víctor Bátiz y Rafael Zavala
+### Autores: Víctor Bátiz y Rafael Zavala
 <br>
 ### Lista de entregables:
 <br>
@@ -44,5 +45,6 @@ La generación inicial se forma colocando organismos vivos en algunas celdas del
 4. Los organismos con menos de dos vecinos mueren de aislamiento.<br>
 5. Los organismos con más de tres vecinos mueren de hacinamiento.<br>
 6. Las celdas vacías que tienen exactamente tres organismos vecinos nacen en la siguiente generación.<br>
+<br>
 La salida del programa iniciara desplegando el tablero con la primera generación de organismos ubicados en sus respectivas celdas y un mensaje desplegando el numero de la generación actual. Calcular la siguiente generación y esperar por una tecla antes de desplegarla.<br>
 La salida puede desplegar el tablero en forma textual.
