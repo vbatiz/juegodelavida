@@ -72,7 +72,7 @@
       <workItem from="1567485828214" duration="6665000" />
       <workItem from="1567517210713" duration="6219000" />
       <workItem from="1567526162984" duration="3780000" />
-      <workItem from="1567554600423" duration="2610000" />
+      <workItem from="1567554600423" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué comentarios para documentación">
       <created>1567527239192</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567556370873</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Agregué diagrama UML y Modifiqué README.md">
+      <created>1567557471174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567557471174</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +132,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Agregué comentarios para documentación" />
     <MESSAGE value="Agregué diagrama UML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregué diagrama UML" />
+    <MESSAGE value="Agregué diagrama UML y Modifiqué README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregué diagrama UML y Modifiqué README.md" />
   </component>
 </project>

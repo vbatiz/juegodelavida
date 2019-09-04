@@ -9,7 +9,7 @@ Materia: Tecnologías de Programación de la MCC del ITC
 #### Lista de entregables:
 1. El código fuente se encuentra en la carpeta: src\pJuegoVida (https://github.com/vbatiz/juegodelavida/tree/master/src/pJuegoVida)
 2. El Diagrama UML final: diagramauml.png 
-![alt text](https://github.com/vbatiz/juegodelavida/tree/master/diagramauml.png)
+![alt text](https://github.com/vbatiz/juegodelavida/blob/master/diagramauml.png)
 
 #### Descripción
 El presente proyecto es una implementación en Java de El juego de la vida que fue diseñado por el matemático británico John Horton Conway en 1970. Esta desarrollado utilizando la consola como interfaz y utilizando el IDE IntelliJ IDEA Ultimate 2019.2.
