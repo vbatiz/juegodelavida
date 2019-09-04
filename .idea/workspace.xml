@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98f3727b-a5fa-4cf0-97ed-61122c1b2097" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pJuegoVida/EstadoJuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pJuegoVida/EstadoJuego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pJuegoVida/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pJuegoVida/Juego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pJuegoVida/Organismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pJuegoVida/Organismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pJuegoVida/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pJuegoVida/Tablero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QHiKaRVnUBHELI0eRwlBFM7eiM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -71,7 +71,8 @@
       <workItem from="1567433869374" duration="17949000" />
       <workItem from="1567485828214" duration="6665000" />
       <workItem from="1567517210713" duration="6219000" />
-      <workItem from="1567526162984" duration="2283000" />
+      <workItem from="1567526162984" duration="3780000" />
+      <workItem from="1567554600423" duration="2610000" />
     </task>
     <task id="LOCAL-00001" summary="Agregué comentarios para documentación">
       <created>1567527239192</created>
@@ -87,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567527354606</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Agregué comentarios para documentación">
+      <created>1567528513475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567528513475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregué diagrama UML">
+      <created>1567556370872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567556370873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,14 +113,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Agregué comentarios para documentación" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregué comentarios para documentación" />
+    <MESSAGE value="Agregué diagrama UML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregué diagrama UML" />
   </component>
 </project>

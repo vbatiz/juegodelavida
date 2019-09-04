@@ -2,21 +2,20 @@
 Tarea 1<br>
 Materia: Tecnologías de Programación de la MCC del ITC
 <br>
-## Tutor: Dra. María Lucía Barrón Estrada
-<br>
-### Autores: Víctor Bátiz y Rafael Zavala
-<br>
-### Lista de entregables:
-<br>
-1. El códigp fuente se encuentra en la carpeta: src\pJuegoVida
-2. El Diagrama UML final: diagramauml.png 
-![alt text](https://github.com/vbatiz/juegodelavida/raw/master/diagramauml.png)
+### Tutor: Dra. María Lucía Barrón Estrada ##
 
-### Descripción
+#### Autores: Víctor Bátiz y Rafael Zavala
+
+#### Lista de entregables:
+1. El código fuente se encuentra en la carpeta: src\pJuegoVida (https://github.com/vbatiz/juegodelavida/tree/master/src/pJuegoVida)
+2. El Diagrama UML final: diagramauml.png 
+![alt text](https://github.com/vbatiz/juegodelavida/tree/master/diagramauml.png)
+
+#### Descripción
 El presente proyecto es una implementación en Java de El juego de la vida que fue diseñado por el matemático británico John Horton Conway en 1970. Esta desarrollado utilizando la consola como interfaz y utilizando el IDE IntelliJ IDEA Ultimate 2019.2.
-<br>
+<br><br>
 En esta implementación se siguieron las siguientes indicaciones:
-### Requisitos:
+##### Requisitos:
 1. Debes usar métodos para realizar los diferentes procesos
 2. Debes definir una clase para el tablero y sus reglas
 3. El programa debe estar documentado con comentarios.
@@ -37,7 +36,7 @@ En esta implementación se siguieron las siguientes indicaciones:
 El juego de la vida se desarrolla en un tablero de dos dimensiones donde cada posición del tablero representa un Organismo, los organismos de las celdas pueden morir o nacer de una generación a otra, de acuerdo a un conjunto de reglas.
 La generación inicial se forma colocando organismos vivos en algunas celdas del tablero.
 <br>
-### Las reglas que determinan los cambios en el tablero se dan a continuación:
+##### Las reglas que determinan los cambios en el tablero se dan a continuación:
 <br>
 1. Cada celda del tablero puede tener 3, 5 u 8 vecinos.<br>
 2. Los vecinos de una celda son aquellas celdas que se encuentran adyacentes a ella.<br>
@@ -47,4 +46,5 @@ La generación inicial se forma colocando organismos vivos en algunas celdas del
 6. Las celdas vacías que tienen exactamente tres organismos vecinos nacen en la siguiente generación.<br>
 <br>
 La salida del programa iniciara desplegando el tablero con la primera generación de organismos ubicados en sus respectivas celdas y un mensaje desplegando el numero de la generación actual. Calcular la siguiente generación y esperar por una tecla antes de desplegarla.<br>
+<br>
 La salida puede desplegar el tablero en forma textual.
